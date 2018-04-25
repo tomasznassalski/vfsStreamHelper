@@ -5,6 +5,8 @@
         "mikey179/vfsStream": "1.6.5"
     },
     "autoload": {
-        "psr-0": { "TomaszNassalski\\VfsStreamHelper\\": "src" }
+        "psr-4": {
+            "TomaszNassalski\\VfsStreamHelper\\": "src/"
+        }
     }
 }

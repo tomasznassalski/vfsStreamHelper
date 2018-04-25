@@ -3,5 +3,8 @@
     "description": "Helper for php unit tests - wrapper for vfsStream",
     "require-dev": {
         "mikey179/vfsStream": "1.6.5"
+    },
+    "autoload": {
+        "psr-0": { "TomaszNassalski\\VfsStreamHelper\\": "src" }
     }
 }

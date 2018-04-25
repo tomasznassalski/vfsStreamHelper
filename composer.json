@@ -1,7 +1,7 @@
 {
     "name": "TomaszNassalski/VfsStreamHelper",
     "description": "Helper for php unit tests - wrapper for vfsStream",
-    "require-dev": {
+    "require": {
         "mikey179/vfsStream": "1.6.5"
     },
     "autoload": {
